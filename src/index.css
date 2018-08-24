@@ -1,0 +1,27 @@
+.err-msg{
+    padding-left: 20px;
+    color:red;
+}
+.am-tab-bar-bar{
+    position: fixed;
+
+    bottom:0;
+}
+.fixed-head{
+    position:fixed;
+    top:0;
+    width: 100%;
+}
+
+#right .am-list-extra{
+    flex-basis:auto
+}
+#right  .am-list-content{
+    padding-right: 15px;
+    text-align:right;
+}
+.chat-footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+}
